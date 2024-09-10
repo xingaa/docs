@@ -24,7 +24,8 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'vue3 notes', link: '/notes/vue3note' },
-          { text: 'git notes', link: '/notes/gitnote' }
+          { text: 'git notes', link: '/notes/gitnote' },
+          { text: 'AbortController-中止请求', link: '/notes/AbortController' }
         ]
       }
     ],
